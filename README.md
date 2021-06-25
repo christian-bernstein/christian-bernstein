@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...<br>Hello world
+- 🔭 I’m currently working on ...
+
 
 
 ![](https://komarev.com/ghpvc/?username=christian-bernstein&color=blue)
