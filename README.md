@@ -1,8 +1,5 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-
-
+### Hey there 👋,
+I'm Christian Bernstein from Hessen, Germany. 
 
 ![](https://komarev.com/ghpvc/?username=christian-bernstein&color=blue)
 
