@@ -1,10 +1,12 @@
 ### Hey there 👋,
 I'm Christian Bernstein from Hessen, Germany. 
 
-![](https://komarev.com/ghpvc/?username=christian-bernstein&color=blue)
+I'm working on heart project called SQL-Editor which enables students at my school to learn SQL in an interactive and modern environment.
 
 <!--
 **christian-bernstein/christian-bernstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[](https://komarev.com/ghpvc/?username=christian-bernstein&color=blue)
 
 Here are some ideas to get you started:
 
