@@ -1,7 +1,7 @@
 ### Hey there 👋,
 I'm Christian Bernstein from Hessen, Germany. 
 
-I'm working on heart project called SQL-Editor which enables students at my school to learn SQL in an interactive and modern environment.
+I'm working on a heart project called SQL-Editor which enables students at my school to learn SQL in an interactive and modern environment.
 
 <!--
 **christian-bernstein/christian-bernstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
