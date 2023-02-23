@@ -2,7 +2,7 @@
 I'm Christian Bernstein from Frankfurt, Germany.
 
 Currently working on a modern, web-based SQL suite. 
-Also fiddling around with a selfmade smartphone.
+Also fiddling around with a selfmade smarthome.
 <!--
 **christian-bernstein/christian-bernstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
