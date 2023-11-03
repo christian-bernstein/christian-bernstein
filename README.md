@@ -3,6 +3,8 @@ I'm Christian Bernstein from Frankfurt, Germany.
 Currently working on a modern, web-based SQL suite. 
 Also fiddling around with a selfmade smarthome.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-bernstein)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Chris GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-bernstein)](https://github.com/anuraghazra/github-readme-stats)
 
 
