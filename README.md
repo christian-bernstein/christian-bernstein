@@ -1,5 +1,15 @@
-### Hey there 👋,
-I'm Christian Bernstein from Frankfurt, Germany.
+<div align="center">
+    <h3>Hey there 👋<br /> I'm Christian Bernstein from Frankfurt, Germany.</h3>
+    <a href="https://christian-bernstein.de/atlas">Live website</a>
+    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+    <a href="https://christian-bernstein.de/atlas">Download</a>
+    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+    <a href="https://christian-bernstein.de/atlas">Contact</a>
+    <br />
+    <hr />
+</div>
+---
+
 Currently working on a modern, web-based SQL suite. 
 Also fiddling around with a selfmade smarthome.
 
