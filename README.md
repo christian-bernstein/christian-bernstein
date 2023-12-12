@@ -8,7 +8,6 @@
     <br />
     <hr />
 </div>
----
 
 Currently working on a modern, web-based SQL suite. 
 Also fiddling around with a selfmade smarthome.
