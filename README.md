@@ -16,7 +16,7 @@ Also fiddling around with a selfmade smarthome.
 
 I've worked with these languages and tools listed here:
 - Java
-  - Advanced annotation processing
+  - Annotation processing & basic runtime code generation
   - H2 database
   - RabbitMQ (message broker)
   - Netty
@@ -24,6 +24,9 @@ I've worked with these languages and tools listed here:
 - Kotlin
   - JetBrains Xodus database [Github](https://github.com/JetBrains/xodus)
   - JetBrains Ktor Servers & Clients [Homepage](https://ktor.io/)
+
+JVM environment
+  - Build tools: Maven and Gradle
 
 - TypeScript & JavaScript
   - React
