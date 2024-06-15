@@ -1,10 +1,10 @@
 <div align="center">
     <h3>Hey there 👋<br /> I'm Christian Bernstein from Frankfurt, Germany.</h3>
-    <a href="https://christian-bernstein.de/atlas">Live website</a>
+    <a href="todo: add link here">Portfolio</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="https://christian-bernstein.de/atlas">Download</a>
+    <a href="todo: add link here">LinkedIn</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="https://christian-bernstein.de/atlas">Contact</a>
+    <a href="todo: add link here">Contact</a>
     <br />
     <hr />
 </div>
