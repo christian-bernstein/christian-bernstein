@@ -31,7 +31,7 @@ JVM environment
 - TypeScript & JavaScript
   - React
 
-Throughout my university bachelor's program I also gained insight on things like:
+Throughout my university's bachelor program I also gained insight on things like:
 - C++
   - OpenMP (pragma-based multi-processing)
 - CUDA 
