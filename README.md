@@ -1,5 +1,10 @@
 <div align="center">
     <h3>Hey there 👋<br /> I'm Christian Bernstein from Frankfurt, Germany.</h3>
+
+    <!-- remove when uncommenting html code segment below -->
+    <br />
+    <hr />
+    
     <!--
     <a href="todo: add link here">Portfolio</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
