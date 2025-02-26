@@ -17,14 +17,16 @@
 Currently working on a modern, web-based SQL suite. 
 Also fiddling around with a selfmade smarthome.
 
-### languages and Tools
+## Tech Stack
 
-I've worked with these languages and tools listed here:
+### Languages & Frameworks
+
 - Java
   - Annotation processing & basic runtime code generation
   - H2 database
   - RabbitMQ (message broker)
   - Netty
+  - Hibernate (JPA)
 
 - Kotlin
   - JetBrains Xodus database [Github](https://github.com/JetBrains/xodus)
@@ -36,20 +38,13 @@ JVM environment
 - TypeScript & JavaScript
   - React
 
-Throughout my university's bachelor program I also gained insight on things like:
-- C++
-  - OpenMP (pragma-based multi-processing)
-- CUDA 
-- Scala programming language
+### Additional Experience
 
-### Other tech-related interests
-One of my main tech-related interests is in compilers. 
-Throughout my projects I wrote two simple LL(1) "compilers" *(tokenizer, parser & lexer)*. 
-This peeked my interest in designing (programming) languages and developing more complex compilers and code generators.
-I'm currently designing a scripting language for generating AI prompts and modelling the behaviour of advanced pipeline
-processes. <br/>
-*(Technical: A language-based alternative to the node-based approach used in ComfyUI 
-to generate images using StableDiffusion)*
+Through my university's bachelor's program, I also gained experience in:
+- C++
+  - OpenMP (pragma-based multi-processing framework)
+- CUDA 
+- Scala
 
 
 <!--
