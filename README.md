@@ -3,7 +3,6 @@
     <!-- remove when uncommenting html code segment below -->
     <br />
     <hr />
-    
     <!--
     <a href="todo: add link here">Portfolio</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
