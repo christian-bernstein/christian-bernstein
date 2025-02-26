@@ -1,5 +1,6 @@
 <div align="center">
     <h3>Hey there 👋<br /> I'm Christian Bernstein from Frankfurt, Germany.</h3>
+    <!--
     <a href="todo: add link here">Portfolio</a>
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href="todo: add link here">LinkedIn</a>
@@ -7,6 +8,7 @@
     <a href="todo: add link here">Contact</a>
     <br />
     <hr />
+    -->
 </div>
 
 Currently working on a modern, web-based SQL suite. 
