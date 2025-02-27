@@ -17,15 +17,19 @@
     -->
 </div>
 
----
+
 
 <div align="center">
-    <h3>
-      👋
-
-      I'm Christian Bernstein from Frankfurt, Germany
+  <h3>
+    👋
+    I'm Christian Bernstein from Frankfurt, Germany
   </h3>
 </div>
+
+<br />
+
+---
+<br />
 
 Currently working on a modern, web-based SQL suite. 
 Also fiddling around with a selfmade smarthome.
