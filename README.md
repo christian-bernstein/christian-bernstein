@@ -1,23 +1,3 @@
-<div align="center">
-    <h3>
-      Hey there 👋
-      <br /> 
-      I'm Christian Bernstein from Frankfurt, Germany.
-    </h3>
-    <!-- remove when uncommenting html code segment below -->
-    <br />
-    <hr />
-    <!--
-    <a href="todo: add link here">Portfolio</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="todo: add link here">LinkedIn</a>
-    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-    <a href="todo: add link here">Contact</a>
-    <br />
-    -->
-</div>
-
-
 
 <div align="center">
   <h3>
@@ -32,7 +12,7 @@
 <br />
 
 Currently working on a modern, web-based SQL suite. 
-Also fiddling around with a selfmade smarthome.
+Also fiddling around with a self-made smarthome.
 
 ## Main Tech Stack
 
