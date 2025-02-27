@@ -12,3 +12,17 @@
 - React
   - Some notable frameworks I used within my React websites:
     ReactRouter, StyledComponents, Framer Motion (animation library), three,js (3D library), Axios and Dexie (indexedDB Wrapper).
+
+
+
+
+
+```markdown
+### Additional Experience
+
+Through my university's bachelor's program, I also gained experience in:
+- C++
+  - OpenMP (pragma-based multiprocessing framework)
+- CUDA 
+- Scala
+```
