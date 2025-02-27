@@ -1,5 +1,9 @@
 <div align="center">
-    <h3>Hey there 👋<br /> I'm Christian Bernstein from Frankfurt, Germany.</h3>
+    <h3>
+      Hey there 👋
+      <br /> 
+      I'm Christian Bernstein from Frankfurt, Germany.
+    </h3>
     <!-- remove when uncommenting html code segment below -->
     <br />
     <hr />
@@ -10,39 +14,36 @@
     <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
     <a href="todo: add link here">Contact</a>
     <br />
-    <hr />
     -->
+</div>
+
+---
+
+<div align="center">
+    <h3>
+      👋
+
+      I'm Christian Bernstein from Frankfurt, Germany
+  </h3>
 </div>
 
 Currently working on a modern, web-based SQL suite. 
 Also fiddling around with a selfmade smarthome.
 
-## Tech Stack
+## Main Tech Stack
 
-### Languages & Frameworks
+- Kotlin (Ktor, Xodus)
+- Java (Hibernate)
+- TypeScript (React)
 
-- Java
-  - Annotation processing & basic runtime code generation
-  - H2 database
-  - RabbitMQ (message broker)
-  - Netty
-  - Hibernate (JPA)
+[More and In-depth](aboutme/techstack-in-depth.md)
 
-- Kotlin
-  - JetBrains Xodus database [Github](https://github.com/JetBrains/xodus)
-  - JetBrains Ktor Servers & Clients [Homepage](https://ktor.io/)
-
-JVM environment
-  - Build tools: Maven and Gradle
-
-- TypeScript & JavaScript
-  - React
 
 ### Additional Experience
 
 Through my university's bachelor's program, I also gained experience in:
 - C++
-  - OpenMP (pragma-based multi-processing framework)
+  - OpenMP (pragma-based multiprocessing framework)
 - CUDA 
 - Scala
 
