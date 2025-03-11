@@ -15,7 +15,7 @@ I'm studying Computer Science (B.Sc.) at Technical University Darmstadt.
 
 
 <details>
-  <summary>Public GitHub Stats</summary>
+  <summary><b>Public GitHub Stats</b></summary>
 
   <br/>
   
@@ -25,15 +25,13 @@ I'm studying Computer Science (B.Sc.) at Technical University Darmstadt.
   </div>
 
   <!--
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-bernstein)](https://github.com/anuraghazra/github-readme-stats)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-bernstein)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-bernstein&hide_progress=false&layout=compact&langs_count=20&custom_title=Most%20Used%20Languages%20(Public))
   
   TODO: Add once a chart is generated
   [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christian_bernstein)](https://github.com/anuraghazra/github-readme-stats)
   -->
 </details>
-
-<br />
 
 ## Main Tech Stack
 
