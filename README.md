@@ -9,11 +9,9 @@
 <br />
 
 ---
-<br />
 
 I'm studying Computer Science (B.Sc.) at Technical University Darmstadt.
 
-<br />
 <br />
 
 ## More information about me
