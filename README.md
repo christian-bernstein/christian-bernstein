@@ -6,13 +6,9 @@
   </h3>
 </div>
 
-<br />
-
 ---
 
 I'm studying Computer Science (B.Sc.) at Technical University Darmstadt.
-
-<br />
 
 ## More information
 
