@@ -13,19 +13,6 @@
 
 I'm studying Computer Science (B.Sc.) at Technical University Darmstadt.
 
-``TODO: Add more :)``
-
-<br />
-
-## Main Tech Stack
-
-- Kotlin (Ktor, Xodus)
-- Java (Hibernate)
-- TypeScript (React)
-
-[More and In-depth](aboutme/techstack-in-depth.md)
-
-
 <details>
   <summary>Stats</summary>
   
@@ -39,3 +26,14 @@ I'm studying Computer Science (B.Sc.) at Technical University Darmstadt.
   [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=christian_bernstein)](https://github.com/anuraghazra/github-readme-stats)
   -->
 </details>
+
+<br />
+
+## Main Tech Stack
+
+- Kotlin (Ktor, Xodus)
+- Java (Hibernate)
+- TypeScript (React)
+
+[More and In-depth](aboutme/techstack-in-depth.md)
+
